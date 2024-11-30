@@ -168,3 +168,4 @@
 /Users/luthfy/Project/Neet/obj/Debug/net8.0/Neet.genruntimeconfig.cache
 /Users/luthfy/Project/Neet/obj/Debug/net8.0/ref/Neet.dll
 /Users/luthfy/Project/Neet/bin/Debug/net8.0/appsettings.json
+/Users/luthfy/Project/Neet/obj/Debug/net8.0/Neet.sourcelink.json
